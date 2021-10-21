@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-    cout<<"hello world"<<endl;
-    cout<<"next line";
+//     cout<<"hello world"<<endl;
+//     cout<<"next line";
     // short s54655rra=55;
     // short sa=55;
     // cout<<s54655rra;
